@@ -1,2 +1,3 @@
 # Bachelor-MIRT-Chess
-Bachelorthesis "Personalized Chess Training Plans via Multidimensional Item Response Theory" by Luca Gunnar Sander, Bielefeld University
+
+Bachelor Thesis "Personalized Chess Training Plans via Multidimensional Item Response Theory" by Luca Gunnar Sander, Bielefeld University
